@@ -143,6 +143,7 @@ Step 6 : Hosting todo microservice on nginx container.
 Step 7: Copy the instance public ip and give port and proper path and see for the result
 
 ![alt text](<Screenshot (330).png>)
+![Screenshot (330)](https://github.com/user-attachments/assets/a85cc6c2-e413-4038-88d5-43b82c32b0da)
 
 ![alt text](<Screenshot (332).png>)
 
